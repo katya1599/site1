@@ -1,0 +1,31 @@
+p {
+	color: #E1FF00;
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+}
+
+h3 {
+	font-size: 20px;
+	text-align: center;
+}
+
+h4 {
+	font-size: 20px;
+	text-align: center;
+	color: #4b0082;
+}
+
+html {
+	background-color: #696969;
+}
+
+body {
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #a9a9a9;
+	padding: 0 40px 40px 40px;
+}
